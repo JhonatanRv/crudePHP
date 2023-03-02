@@ -1,0 +1,25 @@
+body{
+    background-color: lightgrey;    
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabeçalho{
+    margin-top: 5%;
+    padding: 5%,5%,5%,5%;
+    text-align: center;
+}
+
+.loginArea{
+    background-color: grey;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    font-size: 150%;
+
+}
